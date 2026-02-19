@@ -1,0 +1,3361 @@
+{
+  "quiz": {
+    "id": "664b9e8421aaa90007ed7bdd",
+    "slug": "eurowyborczy2024",
+    "title": {
+      "en": null,
+      "fr": null,
+      "pl": "#EuroWyborczy2024. Test poglądów na wybory europarlamentarne",
+      "pt": null,
+      "ru": null,
+      "sr": null,
+      "__typename": "TextTranslation"
+    },
+    "description": {
+      "en": null,
+      "fr": null,
+      "pl": "Nadchodzą wybory europarlamentarne! Nie wiesz na kogo zagłosować? Sprawdź quiz na wybory europarlamentarne, test poglądów który pozwoli ci określić do kogo jest Ci najbliżej. Wykonanie quizu zajmie Ci tylko 10 minut!",
+      "pt": null,
+      "ru": null,
+      "sr": null,
+      "__typename": "TextTranslation"
+    },
+    "logoUrl": "https://orlow.fra1.digitaloceanspaces.com/mypolitics2/public-ew24_7a1297384c.png",
+    "lastUpdatedVersion": {
+      "id": "664b9e8421aaa90007ed7bdc",
+      "publishedOn": null,
+      "questions": [
+        {
+          "id": "664b9f1621aaa90007ed7c43",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "Polska powinna wejść do strefy Euro",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9efe21aaa90007ed7c3a",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Ustrój",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [
+                {
+                  "id": "664b9ec021aaa90007ed7c2e",
+                  "__typename": "Ideology"
+                }
+              ],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [
+                {
+                  "id": "664b9ebc21aaa90007ed7c2d",
+                  "__typename": "Ideology"
+                }
+              ],
+              "parties": [],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f1721aaa90007ed7c44",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "UE powinna mieć możliwość nakładania własnych podatków",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9efe21aaa90007ed7c3a",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Ustrój",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [
+                {
+                  "id": "664b9ee021aaa90007ed7c34",
+                  "__typename": "Ideology"
+                }
+              ],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [
+                {
+                  "id": "664b9ecb21aaa90007ed7c30",
+                  "__typename": "Ideology"
+                }
+              ],
+              "parties": [
+                {
+                  "id": "664b9ea521aaa90007ed7c15",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f1821aaa90007ed7c45",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "Decyzje związane z polityką zagraniczną powinny na szczeblu UE być podejmowane wyłącznie jednomyślnie",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9efe21aaa90007ed7c3a",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Ustrój",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea521aaa90007ed7c15",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f1821aaa90007ed7c46",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "Prawo UE powinno przestać mieć pierwszeństwo nad prawem krajowym",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9efe21aaa90007ed7c3a",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Ustrój",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [
+                {
+                  "id": "664b9ecb21aaa90007ed7c30",
+                  "__typename": "Ideology"
+                }
+              ],
+              "parties": [
+                {
+                  "id": "664b9ea521aaa90007ed7c15",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [
+                {
+                  "id": "664b9ee021aaa90007ed7c34",
+                  "__typename": "Ideology"
+                }
+              ],
+              "parties": [
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f1921aaa90007ed7c47",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "UE w obecnej formie stanowi zagrożenie dla suwerenności państw członkowskich",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9efe21aaa90007ed7c3a",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Ustrój",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [
+                {
+                  "id": "664b9ecb21aaa90007ed7c30",
+                  "__typename": "Ideology"
+                },
+                {
+                  "id": "664b9ed321aaa90007ed7c33",
+                  "__typename": "Ideology"
+                }
+              ],
+              "parties": [
+                {
+                  "id": "664b9ea521aaa90007ed7c15",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [
+                {
+                  "id": "664b9ee021aaa90007ed7c34",
+                  "__typename": "Ideology"
+                }
+              ],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f1a21aaa90007ed7c49",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "W całej UE powinna obowiązywać taka sama płaca minimalna",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9efe21aaa90007ed7c3a",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Ustrój",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea521aaa90007ed7c15",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f1b21aaa90007ed7d77",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "UE powinna dążyć do pełnej niezależności energetycznej",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f0621aaa90007ed7c3c",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Energetyka",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f1d21aaa90007ed7d79",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "Należy jak najszybciej odejść od paliw kopalnych w całej UE",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f0621aaa90007ed7c3c",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Energetyka",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f1e21aaa90007ed7d7a",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "UE powinna móc ingerować w politykę energetyczną państw członkowskich",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f0621aaa90007ed7c3c",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Energetyka",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [
+                {
+                  "id": "664b9ee021aaa90007ed7c34",
+                  "__typename": "Ideology"
+                }
+              ],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [
+                {
+                  "id": "664b9ecb21aaa90007ed7c30",
+                  "__typename": "Ideology"
+                }
+              ],
+              "parties": [
+                {
+                  "id": "664b9ea521aaa90007ed7c15",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f1f21aaa90007ed7d7c",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "Energia jądrowa powinna być priorytetowo uwzględniona w europejskiej transformacji energetycznej",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f0621aaa90007ed7c3c",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Energetyka",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea521aaa90007ed7c15",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f1f21aaa90007ed7d7d",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "UE powinna obligatoryjnie wymagać instalacji fotowoltaicznych przy budowie nowych budynków",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f0621aaa90007ed7c3c",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Energetyka",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f2021aaa90007ed7d7e",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "UE powinna w większym stopniu dotować transformację energetyczną mniej zamożnych członków wspólnoty",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f0621aaa90007ed7c3c",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Energetyka",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea521aaa90007ed7c15",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f2121aaa90007ed7d7f",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "UE powinna utrzymać zakaz produkcji nowych samochodów spalinowych od roku 2035",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f0a21aaa90007ed7c3e",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Klimat",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea521aaa90007ed7c15",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f2121aaa90007ed7d80",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "Należy nałożyć cła na chińskie \"zielone towary\" takie jak fotowoltaika i elektryczne samochody w celu ochrony europejskich producentów",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f0a21aaa90007ed7c3e",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Klimat",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f2221aaa90007ed7d81",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "Priorytetem dla UE powinna być walka ze zmianami klimatu",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f0a21aaa90007ed7c3e",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Klimat",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea521aaa90007ed7c15",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f2321aaa90007ed7d82",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "Czy popierasz cel Zielonego Ładu, jakim jest osiągnięcie neutralności klimatycznej UE do roku 2050?",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f0a21aaa90007ed7c3e",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Klimat",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea521aaa90007ed7c15",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f2421aaa90007ed7d83",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "UE powinna wymagać tworzenia stref czystego transportu w największych miastach krajów członkowskich",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f0a21aaa90007ed7c3e",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Klimat",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f2421aaa90007ed7d85",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "UE powinna zapewniać młodym darmowe przejazdy koleją",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f0a21aaa90007ed7c3e",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Klimat",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f2521aaa90007ed7d86",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "Państwa członkowskie powinny zachować pełną suwerenność w zakresie polityki imigracyjnej",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f0f21aaa90007ed7c40",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Migracja",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [
+                {
+                  "id": "664b9ecb21aaa90007ed7c30",
+                  "__typename": "Ideology"
+                }
+              ],
+              "parties": [
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [
+                {
+                  "id": "664b9ee021aaa90007ed7c34",
+                  "__typename": "Ideology"
+                }
+              ],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea521aaa90007ed7c15",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f2521aaa90007ed7d87",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "Migranci powinni być relokowani między państwami członkowskimi UE w ramach paktu migracyjnego",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f0f21aaa90007ed7c40",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Migracja",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea521aaa90007ed7c15",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [],
+              "parties": [],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f2621aaa90007ed7d88",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "UE powinna dotować programy integracyjne uczące migrantów języków, kultury i wartości państw członkowskich",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f0f21aaa90007ed7c40",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Migracja",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f2721aaa90007ed7d89",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "UE powinna udzielać wsparcia finansowego krajom przyjmujących najwięcej uchodźców",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f0f21aaa90007ed7c40",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Migracja",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea521aaa90007ed7c15",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f2721aaa90007ed7d8a",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "Polska powinna być zwolniona z obligatoryjnej relokacji migrantów za przyjęcie wielu uchodźców z Ukrainy",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f0f21aaa90007ed7c40",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Migracja",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [],
+              "parties": [],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea521aaa90007ed7c15",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f2821aaa90007ed7d8b",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "UE powinna zachęcać do migracji wysoko wykwalifikowanych specjalistów",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f0f21aaa90007ed7c40",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Migracja",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f2921aaa90007ed7d8c",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "Należy utworzyć wspólną armię UE",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f1421aaa90007ed7c42",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Obronność",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [
+                {
+                  "id": "664b9ee021aaa90007ed7c34",
+                  "__typename": "Ideology"
+                }
+              ],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [
+                {
+                  "id": "664b9ecb21aaa90007ed7c30",
+                  "__typename": "Ideology"
+                },
+                {
+                  "id": "664b9ed321aaa90007ed7c33",
+                  "__typename": "Ideology"
+                }
+              ],
+              "parties": [
+                {
+                  "id": "664b9ea521aaa90007ed7c15",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f2a21aaa90007ed7d8e",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "UE powinna w większym stopniu wspierać finansowo obronność Ukrainy",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f1421aaa90007ed7c42",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Obronność",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea521aaa90007ed7c15",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f2b21aaa90007ed7d8f",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "Polska powinna wspierać jak najszybsze dołączenie Ukrainy do UE",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f1421aaa90007ed7c42",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Obronność",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea521aaa90007ed7c15",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f2c21aaa90007ed7d90",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "UE powinna wspierać finansowo obronność krajów graniczących z wrogimi państwami",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f1421aaa90007ed7c42",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Obronność",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea521aaa90007ed7c15",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f2c21aaa90007ed7d91",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "W przypadku ataku na jakiekolwiek państwo UE, np. Estonię i Łotwę, wszystkie kraje członkowskie powinny obligatoryjnie wysłać swoje wojska na pomoc",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f1421aaa90007ed7c42",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Obronność",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [
+                {
+                  "id": "664b9ee021aaa90007ed7c34",
+                  "__typename": "Ideology"
+                }
+              ],
+              "parties": [
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [
+                {
+                  "id": "664b9ecb21aaa90007ed7c30",
+                  "__typename": "Ideology"
+                },
+                {
+                  "id": "664b9ed321aaa90007ed7c33",
+                  "__typename": "Ideology"
+                }
+              ],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea521aaa90007ed7c15",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ead21aaa90007ed7c2a",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        },
+        {
+          "id": "664b9f2d21aaa90007ed7d92",
+          "text": {
+            "en": "",
+            "fr": null,
+            "pl": "W przypadku sytuacji podobnych do kryzysu na granicy polsko-białoruskiej, kraje członkowskie UE powinny bezwzględnie bronić granic",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "additionalInfo": {
+            "explanation": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuestionAdditionalInfo"
+          },
+          "category": {
+            "id": "664b9f1421aaa90007ed7c42",
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "Obronność",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "description": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "weight": 1,
+            "viewerCanEdit": true,
+            "__typename": "Category"
+          },
+          "effects": {
+            "type": "FOR_AND_AGAINST",
+            "disagree": {
+              "ideologies": [],
+              "parties": [],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "agree": {
+              "ideologies": [],
+              "parties": [
+                {
+                  "id": "664b9ea121aaa90007ed7c14",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea521aaa90007ed7c15",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9ea921aaa90007ed7c16",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664b9eb121aaa90007ed7c2c",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcaca21aaa90007f8edf6",
+                  "__typename": "Party"
+                },
+                {
+                  "id": "664fcb8c21aaa90007f8ee66",
+                  "__typename": "Party"
+                }
+              ],
+              "__typename": "QuestionPositiveEffect"
+            },
+            "custom": [],
+            "__typename": "QuestionEffects"
+          },
+          "__typename": "Question"
+        }
+      ],
+      "axes": [
+        {
+          "id": "665790c2abb31a0007edee41",
+          "left": {
+            "id": "664b9ecb21aaa90007ed7c30",
+            "__typename": "Ideology"
+          },
+          "right": {
+            "id": "664b9ee021aaa90007ed7c34",
+            "__typename": "Ideology"
+          },
+          "__typename": "QuizAxis"
+        }
+      ],
+      "compassModes": [
+        {
+          "name": {
+            "en": "",
+            "fr": null,
+            "pl": "ONE_AXIS_Kierunek Europy",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "horizontal": {
+            "leftIdeologies": [
+              {
+                "ideology": {
+                  "id": "664b9ecb21aaa90007ed7c30",
+                  "__typename": "Ideology"
+                },
+                "weight": 1,
+                "__typename": "QuizCompassIdeology"
+              }
+            ],
+            "rightIdeologies": [
+              {
+                "ideology": {
+                  "id": "664b9ee021aaa90007ed7c34",
+                  "__typename": "Ideology"
+                },
+                "weight": 1,
+                "__typename": "QuizCompassIdeology"
+              }
+            ],
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuizCompassAxis"
+          },
+          "vertical": {
+            "leftIdeologies": [],
+            "rightIdeologies": [],
+            "name": {
+              "en": "",
+              "fr": null,
+              "pl": "",
+              "pt": null,
+              "ru": null,
+              "sr": null,
+              "__typename": "TextTranslation"
+            },
+            "__typename": "QuizCompassAxis"
+          },
+          "third": {
+            "leftIdeologies": [],
+            "rightIdeologies": [],
+            "name": null,
+            "__typename": "QuizCompassAxis"
+          },
+          "__typename": "QuizCompassMode"
+        }
+      ],
+      "traits": [
+        {
+          "id": "664b9ed321aaa90007ed7c33",
+          "name": {
+            "en": "",
+            "fr": null,
+            "pl": "Paneuropeizm",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "description": {
+            "en": "",
+            "fr": null,
+            "pl": "",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "icon": {
+            "type": "url",
+            "value": "https://orlow.fra1.digitaloceanspaces.com/mypolitics2/public-paneuropeizm_9e054c64de.png",
+            "__typename": "IdeologyIcon"
+          },
+          "color": "#03a9f4",
+          "viewerCanEdit": true,
+          "__typename": "Ideology"
+        },
+        {
+          "id": "664b9ec021aaa90007ed7c2e",
+          "name": {
+            "en": "",
+            "fr": null,
+            "pl": "Anty-Euro",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "description": {
+            "en": "",
+            "fr": null,
+            "pl": "",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "icon": {
+            "type": "url",
+            "value": "https://orlow.fra1.digitaloceanspaces.com/mypolitics2/public-anty_euro_f4e4da13d0.png",
+            "__typename": "IdeologyIcon"
+          },
+          "color": "#f44336",
+          "viewerCanEdit": true,
+          "__typename": "Ideology"
+        },
+        {
+          "id": "664b9ebc21aaa90007ed7c2d",
+          "name": {
+            "en": "",
+            "fr": null,
+            "pl": "Pro-Euro",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "description": {
+            "en": "",
+            "fr": null,
+            "pl": "",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "icon": {
+            "type": "url",
+            "value": "https://orlow.fra1.digitaloceanspaces.com/mypolitics2/public-pro_euro_762c7f1d08.png",
+            "__typename": "IdeologyIcon"
+          },
+          "color": "#d7c314",
+          "viewerCanEdit": true,
+          "__typename": "Ideology"
+        }
+      ],
+      "ideologies": [
+        {
+          "id": "664b9ebc21aaa90007ed7c2d",
+          "name": {
+            "en": "",
+            "fr": null,
+            "pl": "Pro-Euro",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "description": {
+            "en": "",
+            "fr": null,
+            "pl": "",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "icon": {
+            "type": "url",
+            "value": "https://orlow.fra1.digitaloceanspaces.com/mypolitics2/public-pro_euro_762c7f1d08.png",
+            "__typename": "IdeologyIcon"
+          },
+          "color": "#d7c314",
+          "viewerCanEdit": true,
+          "__typename": "Ideology"
+        },
+        {
+          "id": "664b9ec021aaa90007ed7c2e",
+          "name": {
+            "en": "",
+            "fr": null,
+            "pl": "Anty-Euro",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "description": {
+            "en": "",
+            "fr": null,
+            "pl": "",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "icon": {
+            "type": "url",
+            "value": "https://orlow.fra1.digitaloceanspaces.com/mypolitics2/public-anty_euro_f4e4da13d0.png",
+            "__typename": "IdeologyIcon"
+          },
+          "color": "#f44336",
+          "viewerCanEdit": true,
+          "__typename": "Ideology"
+        },
+        {
+          "id": "664b9ecb21aaa90007ed7c30",
+          "name": {
+            "en": "",
+            "fr": null,
+            "pl": "Federalizm",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "description": {
+            "en": "",
+            "fr": null,
+            "pl": "",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "icon": {
+            "type": "url",
+            "value": "https://orlow.fra1.digitaloceanspaces.com/mypolitics2/public-federacja_c96aac7bff.png",
+            "__typename": "IdeologyIcon"
+          },
+          "color": "#3f51b5",
+          "viewerCanEdit": true,
+          "__typename": "Ideology"
+        },
+        {
+          "id": "664b9ed321aaa90007ed7c33",
+          "name": {
+            "en": "",
+            "fr": null,
+            "pl": "Paneuropeizm",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "description": {
+            "en": "",
+            "fr": null,
+            "pl": "",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "icon": {
+            "type": "url",
+            "value": "https://orlow.fra1.digitaloceanspaces.com/mypolitics2/public-paneuropeizm_9e054c64de.png",
+            "__typename": "IdeologyIcon"
+          },
+          "color": "#03a9f4",
+          "viewerCanEdit": true,
+          "__typename": "Ideology"
+        },
+        {
+          "id": "664b9ee021aaa90007ed7c34",
+          "name": {
+            "en": "",
+            "fr": null,
+            "pl": "Eurosceptycyzm",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "description": {
+            "en": "",
+            "fr": null,
+            "pl": "",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "icon": {
+            "type": "url",
+            "value": "https://orlow.fra1.digitaloceanspaces.com/mypolitics2/public-eurosceptyzm_8a826bb682.png",
+            "__typename": "IdeologyIcon"
+          },
+          "color": "#795548",
+          "viewerCanEdit": true,
+          "__typename": "Ideology"
+        }
+      ],
+      "categories": [
+        {
+          "id": "664b9efe21aaa90007ed7c3a",
+          "name": {
+            "en": "",
+            "fr": null,
+            "pl": "Ustrój",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "description": {
+            "en": "",
+            "fr": null,
+            "pl": "",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "weight": 1,
+          "viewerCanEdit": true,
+          "__typename": "Category"
+        },
+        {
+          "id": "664b9f0621aaa90007ed7c3c",
+          "name": {
+            "en": "",
+            "fr": null,
+            "pl": "Energetyka",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "description": {
+            "en": "",
+            "fr": null,
+            "pl": "",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "weight": 1,
+          "viewerCanEdit": true,
+          "__typename": "Category"
+        },
+        {
+          "id": "664b9f0a21aaa90007ed7c3e",
+          "name": {
+            "en": "",
+            "fr": null,
+            "pl": "Klimat",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "description": {
+            "en": "",
+            "fr": null,
+            "pl": "",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "weight": 1,
+          "viewerCanEdit": true,
+          "__typename": "Category"
+        },
+        {
+          "id": "664b9f0f21aaa90007ed7c40",
+          "name": {
+            "en": "",
+            "fr": null,
+            "pl": "Migracja",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "description": {
+            "en": "",
+            "fr": null,
+            "pl": "",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "weight": 1,
+          "viewerCanEdit": true,
+          "__typename": "Category"
+        },
+        {
+          "id": "664b9f1421aaa90007ed7c42",
+          "name": {
+            "en": "",
+            "fr": null,
+            "pl": "Obronność",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "description": {
+            "en": "",
+            "fr": null,
+            "pl": "",
+            "pt": null,
+            "ru": null,
+            "sr": null,
+            "__typename": "TextTranslation"
+          },
+          "weight": 1,
+          "viewerCanEdit": true,
+          "__typename": "Category"
+        }
+      ],
+      "parties": [
+        {
+          "id": "664b9ea121aaa90007ed7c14",
+          "name": "Prawo i Sprawiedliwość",
+          "logoUrl": "https://orlow.fra1.digitaloceanspaces.com/mypolitics2/public-pis_5afbad62f5.png",
+          "country": "POLAND",
+          "viewerCanEdit": true,
+          "__typename": "Party"
+        },
+        {
+          "id": "664b9ea521aaa90007ed7c15",
+          "name": "Koalicja Obywatelska",
+          "logoUrl": "https://orlow.fra1.digitaloceanspaces.com/mypolitics2/public-ko_1_312ff88dae.png",
+          "country": "POLAND",
+          "viewerCanEdit": true,
+          "__typename": "Party"
+        },
+        {
+          "id": "664b9ea921aaa90007ed7c16",
+          "name": "Konfederacja",
+          "logoUrl": "https://orlow.fra1.digitaloceanspaces.com/mypolitics2/cdnv2-75302630_2113492512290681_1136577135410937856_n_5b73ff0615.png",
+          "country": "POLAND",
+          "viewerCanEdit": true,
+          "__typename": "Party"
+        },
+        {
+          "id": "664b9ead21aaa90007ed7c2a",
+          "name": "Lewica",
+          "logoUrl": "https://orlow.fra1.digitaloceanspaces.com/mypolitics2/public-lewica_ca064d9efd.png",
+          "country": "POLAND",
+          "viewerCanEdit": true,
+          "__typename": "Party"
+        },
+        {
+          "id": "664b9eb121aaa90007ed7c2c",
+          "name": "Trzecia Droga",
+          "logoUrl": "https://orlow.fra1.digitaloceanspaces.com/mypolitics2/public-td_3a9b4b45b8.png",
+          "country": "POLAND",
+          "viewerCanEdit": true,
+          "__typename": "Party"
+        },
+        {
+          "id": "664fcaca21aaa90007f8edf6",
+          "name": "PolExit",
+          "logoUrl": "https://orlow.fra1.digitaloceanspaces.com/mypolitics2/public-pe_c7cdef26a8.png",
+          "country": "POLAND",
+          "viewerCanEdit": true,
+          "__typename": "Party"
+        },
+        {
+          "id": "664fcb8c21aaa90007f8ee66",
+          "name": "Bezpartyjni Samorządowcy",
+          "logoUrl": "https://orlow.fra1.digitaloceanspaces.com/mypolitics2/public-bp_02e6fef61d.png",
+          "country": "POLAND",
+          "viewerCanEdit": true,
+          "__typename": "Party"
+        }
+      ],
+      "options": {
+        "disableAxesWhiteArea": null,
+        "renameParty": [],
+        "renameIdeology": [],
+        "disableAnswersGradiation": null,
+        "disablePartyCountries": null,
+        "disableAutoAxisTitle": null,
+        "enableCategoryWeight": null,
+        "enableNewResults": true,
+        "__typename": "QuizOptions"
+      },
+      "summary": {
+        "type": "NONE",
+        "closestIdeologyScore": [
+          {
+            "id": "665790c2abb31a0007edee45",
+            "results": {
+              "title": {
+                "pl": "",
+                "en": "",
+                "__typename": "TextTranslation"
+              },
+              "description": {
+                "pl": "",
+                "en": "",
+                "__typename": "TextTranslation"
+              },
+              "__typename": "QuizSummaryResults"
+            },
+            "conditions": [],
+            "__typename": "QuizSummaryClosestIdeologyScore"
+          }
+        ],
+        "compassIntervals": [],
+        "__typename": "QuizSummary"
+      },
+      "__typename": "QuizVersion"
+    },
+    "__typename": "Quiz"
+  }
+}
